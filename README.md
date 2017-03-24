@@ -15,5 +15,5 @@ Here is the list of files for running the Seek example:
 - **phaser.min.js**
 
 The complete article about the Seek algorithm with a live demo you can find at:  
-[http://www.askforgametask.com](http:///www.askforgametask.com)
+[http://www.askforgametask.com/2015/05/05/steering-behaviors-part-1-seek/](http://www.askforgametask.com/2015/05/05/steering-behaviors-part-1-seek/)
 
